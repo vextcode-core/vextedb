@@ -1,4 +1,4 @@
-# VextCODE Public Liscense v1.0
+# VextCODE Public License v1.0
 =================================
 
 Copyright (c) 2025 Appremon AI, LLC and/or the VextCODE project
@@ -19,7 +19,7 @@ not an “open source license” as defined by the Open Source Initiative.
 ```text
 1.1 “Software” means the source code and object code of any software
 project, library, tool, or component that Licensor distributes or
-designates as being licensed under this VextCODE Public Liscense v1.0
+designates as being licensed under this VextCODE Public License v1.0
 (the “License”), including, without limitation, current and future
 products such as VextEDB (database), VextBus (message queue and
 pub/sub system), VextSecrets (secrets manager), and any accompanying
@@ -95,7 +95,7 @@ including by providing the Software in a product or service.
 
 Unless a particular Work distributed by Licensor includes a separate
 license file named “LICENSE.md” that clearly states different terms,
-this VextCODE Public Liscense v1.0 applies to that Work.
+this VextCODE Public License v1.0 applies to that Work.
 
 2.2 Project-Specific Licenses.
 
@@ -483,6 +483,6 @@ and the English version, the English version shall control.
 
 ------------------------------------------------------------
 
-## END OF VextCODE Public Liscense v1.0
+## END OF VextCODE Public License v1.0
 
 ------------------------------------------------------------
